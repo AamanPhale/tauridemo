@@ -1,0 +1,11 @@
+{
+  "update": [
+    { 
+      "URL":       "https://capgemini-my.sharepoint.com/:u:/r/personal/aaman-gulab_phale_capgemini_com/Documents/ArgonTauri/argon_app_0.1.0_x64_en-US.msi?csf=1&web=1&e=iSugra",
+      "Version":   "1.0.0",
+      "Notes":     "Theses are some release notes",
+      "Pub_Date":  "2022-06-11T12:29:53+01:00",
+      "Signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEU5MzY0QUI3NkI5NDQ5QkMKUldTOFNaUnJ0MG8yNlZHL1JDL0RaaTRiRDZjUUlmdDZQenV5cFFqdDJDcUwwRERBZHd4eTA2SW0K"    
+    }
+  ]
+}
